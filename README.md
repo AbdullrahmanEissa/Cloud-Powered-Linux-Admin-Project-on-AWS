@@ -2,6 +2,10 @@
 
 ### 🚀 *A Full Production-Style Deployment by Abdullrahman Eissa*
 
+### Comprehensive Video Of The Project: 
+
+https://drive.google.com/file/d/12nzL0Ib0XT1leu62Gs1DO7RH0MfAcK2i/view?usp=drive_link
+
 ---
 
 ## 🌟 **Overview**
